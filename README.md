@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Financial News Sentiment Analysis
 
 https://huggingface.co/blog/sentiment-analysis-python
 
