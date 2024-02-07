@@ -4,6 +4,12 @@ https://huggingface.co/blog/sentiment-analysis-python
 
 https://github.com/vrunm/Text-Classification-Financial-Phrase-Bank/tree/main
 
+### Also See
+
+https://github.com/koriavinash1/Stock-Price-Forecasting-Using-Artificial-Intelligence/tree/master
+
+https://arxiv.org/abs/1010.3003
+
 ## Setup
 
 ```
