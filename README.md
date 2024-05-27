@@ -1,5 +1,8 @@
 # Financial News Sentiment Analysis
 
+**TODO: https://github.com/Zdong104/FNSPID_Financial_News_Dataset**
+
+
 https://huggingface.co/blog/sentiment-analysis-python
 
 https://github.com/vrunm/Text-Classification-Financial-Phrase-Bank/tree/main
